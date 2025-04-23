@@ -5,3 +5,5 @@ N
 contracts/fund-allocation.clar,4/3/43407d338d293748c4e862305abc734e3555985c
 Q
 !contracts/milestone-tracking.clar,1/3/136339d7b13dd902f9545c17f7451674e76db1a9
+S
+#contracts/reporting-compliance.clar,b/e/befa1f140043a4ce84a98e02bf4d8565d49c6e0c
